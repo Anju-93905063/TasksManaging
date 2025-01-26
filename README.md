@@ -46,7 +46,7 @@ A simple and user-friendly task management application that allows users to add,
 ## How to Ru![WhatsApp Image 2025-01-26 at 18 16 50_3857290a](https://github.com/user-attachments/assets/3e6dae91-d14d-448f-8be5-a065e2f1f098)
 n Locally
 1. Clone the repository:
-   git clone https://github.com/Anju-93905063/TaskManager.git
+   git clone https://github.com/Anju-93905063/TasksManaging.git
 2. Navigate to the backend folder and install dependencies:
 cd backend
 npm install
