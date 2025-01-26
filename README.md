@@ -8,14 +8,12 @@ A simple and user-friendly task management application that allows users to add,
 - **View Tasks**: Display a list of all tasks.
 - **Update Task**: Edit the title or description of existing tasks.
 - **Delete Task**: Remove tasks from the list.
+- **Completing the Task**:Complete the task by Tick.
 
 ## Technologies Used
 - **Frontend**: React, Bootstrap
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
-- **Deployment**:  
-  - Frontend: [Vercel](https://task-jade-two.vercel.app/)
-  - Backend: [Render](https://taskmanager-kelq.onrender.com/)
 
 ## API Endpoints
 - **GET /tasks**: Fetch all tasks
@@ -39,11 +37,11 @@ A simple and user-friendly task management application that allows users to add,
 
 
 - **Update Task**: Users can edit the title or description of existing tasks by clicking option.
-- 
+  
   
 - **Delete Task**: Removes tasks from the list by clicking delete symbol.
 
-- 
+  
  
 ## How to Ru![WhatsApp Image 2025-01-26 at 18 16 50_3857290a](https://github.com/user-attachments/assets/3e6dae91-d14d-448f-8be5-a065e2f1f098)
 n Locally
