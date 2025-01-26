@@ -26,15 +26,20 @@ A simple and user-friendly task management application that allows users to add,
 ## Features
 - **Add Task**: Users can create new tasks by providing a title and description.
 
-- 
+
 ![WhatsApp Image 2025-01-26 at 18 15 19_2331f941](https://github.com/user-attachments/assets/e37c0080-7011-4e98-a768-d0c57a0665e2)
+
+
 
 - **View Tasks**: Displays a list of all tasks dynamically.
 
-- 
+
 ![WhatsApp Image 2025-01-26 at 18 16 01_67a5aa41](https://github.com/user-attachments/assets/ebff8997-7263-4494-92e0-913681834698)
 
+
+
 - **Update Task**: Users can edit the title or description of existing tasks by clicking option.
+- 
   
 - **Delete Task**: Removes tasks from the list by clicking delete symbol.
 
